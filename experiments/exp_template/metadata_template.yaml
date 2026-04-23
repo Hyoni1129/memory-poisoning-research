@@ -1,0 +1,35 @@
+experiment_id: exp_000_template
+title: "Short descriptive title"
+status: planned
+owner: "<name>"
+
+dates:
+  planned: YYYY-MM-DD
+  started:
+  finished:
+
+research_question: "What does this experiment test?"
+hypothesis: "Expected behavior and why"
+
+inputs:
+  dataset: "data/final/..."
+  config: "configs/..."
+
+execution:
+  command: "python scripts/run_experiment.py --config configs/example.yaml"
+  random_seed: 0
+  environment_notes: "Python version, package notes, hardware notes"
+
+outputs:
+  logs: "results/logs/..."
+  tables: "results/tables/..."
+  figures: "results/figures/..."
+
+links:
+  lab_daily_log: "daily-YYYY-MM-DD.md"
+  decision_log: "decision-YYYY-MM-DD-topic.md"
+  experiment_note: "exp-note-exp_###_slug.md"
+
+verification:
+  reproducibility_check: pending
+  notes: ""
