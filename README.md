@@ -1,6 +1,6 @@
 # memory-poisoning-research
 
-Formal research repository for the undergraduate project on memory poisoning in consolidated memory systems.
+Research on memory poisoning for the 2026 CURT Undergraduate Research Program.
 
 ## Research Goal
 Build and evaluate reproducible experiments that test how poisoning-style interventions affect memory consolidation, retrieval reliability, and downstream system behavior.
