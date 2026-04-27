@@ -16,7 +16,7 @@ This repository is for formal, reusable research artifacts:
 
 Use the companion repository for process notes, reflective logs, and day-to-day research thinking:
 - Related repository: `memory-poisoning-lab-notes`
-- Planned GitHub URL: `https://github.com/<your-username>/memory-poisoning-lab-notes`
+- Planned GitHub URL: `https://github.com/Hyoni1129/memory-poisoning-lab-notes`
 - Local path (sibling repo): `../memory-poisoning-lab-notes`
 
 ## What Goes Here vs Lab Notes
