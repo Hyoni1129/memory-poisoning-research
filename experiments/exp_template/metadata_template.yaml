@@ -14,6 +14,8 @@ hypothesis: "Expected behavior and why"
 inputs:
   dataset: "data/final/..."
   config: "configs/..."
+  prompts:
+    - "experiments/exp_000_template/prompts/..."
 
 execution:
   command: "python scripts/run_experiment.py --config configs/example.yaml"

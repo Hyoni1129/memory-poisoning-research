@@ -36,3 +36,6 @@ Thumbs.db
 # Logs and temporary files
 *.tmp
 *.temp
+
+# Curated WebArena HTML artifacts belong under data/, not the repository root.
+/render_*.html
